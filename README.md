@@ -1,7 +1,7 @@
 churn_model
 ==============================
 
-End to End Machine Learning pipeline with MLOps tools
+End to End Machine Learning pipeline with MLOps tools.
 
 Project Organization
 ------------
